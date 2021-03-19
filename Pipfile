@@ -8,7 +8,7 @@ verify_ssl = true
 [packages]
 psycopg2-binary = "==2.8.3"
 django-asana = "*"
-django = "==2.2.12"
+django = "==2.2.18"
 
 [requires]
 python_version = "3.7"
